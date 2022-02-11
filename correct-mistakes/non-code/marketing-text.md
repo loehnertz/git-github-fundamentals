@@ -1,6 +1,6 @@
 # Marketing Text
-
-## There are eight mistakes in the following text. Try to find them, correct them, commit them, and open a PR with the changes onto `develop`.
+## There are eight mistakes in the following text.
+### Try to find them, correct them, commit them, and open a PR with the changes onto `master`.
 
 Picnic is an offline supramarket that deliveries groceries to your home for free.
 In the Picnic app you'll find all the products your used to from the supermarket, always at the best prices.
