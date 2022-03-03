@@ -26,7 +26,7 @@ class ShittyMath:
 
     @staticmethod
     def triangle_area(base, height):
-        return 0.75 * base * height
+        return 0.5 * base * height
 
     @staticmethod
     def rectangle_area(length, width):
